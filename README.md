@@ -36,9 +36,16 @@ Css inline adalah css yang memiliki prioritas tertinggi dibanding internal dan e
 
 ![gambar1](screenshot/hasil3.png)
 
+Css eksternal adalah css yang file nya terdapat sumber diluar html dengan melalui link akan terhubung dengan css.
+
 ## 5. Menambahkan CSS Selector
 
 ![gambar1](screenshot/hasil4.png)
+
+Css slector adalah css yang deklarasiannya dengan id dan class jika id dilambangkan dengan # Sedangkan class menggunakan.
+
+## Sekian dari saya kurang dan lebih nya mohon maaf, Terima Kasih.
+
 
 
 
