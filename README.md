@@ -30,6 +30,11 @@ Css internal adalah css yang file nya terdapat pada dokumen html dengan pendekla
 
 ![gambar1](screenshot/hasil2.png)
 
+Css inline adalah css yang memiliki prioritas tertinggi dibanding internal dan eksternal.
+
+## 4. Membuat CSS Eksternal
+
+![gambar1](screenshot/hasil3.png)
 
 
 
