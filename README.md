@@ -3,6 +3,7 @@
 ## Kelas: TI.20.A1
 ## Matkul: Pemrograman Web
 
+
 # Web2Lab2
 # Praktikum 2 : Pembahasan Tentang CSS Dasar
 
@@ -16,6 +17,12 @@ Anda pernah mencoba mengembangkan website menggunakan HTML atau PHP? Jika sudah,
 ## 1. Membuat Dokumen HTML
 
 ![gambar1](screenshot/hasil1.png)
+
+
+
+## 2. Menambahkan CSS Internal
+
+![gambar1](screenshot/hasil2.png)
 
 
 
