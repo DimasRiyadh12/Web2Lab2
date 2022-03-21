@@ -15,7 +15,8 @@ Anda pernah mencoba mengembangkan website menggunakan HTML atau PHP? Jika sudah,
 ## Langkah-Langkah Praktikum
 ## 1. Membuat Dokumen HTML
 
-![img](screenshot/hasil1.png)
+![img](screenshot)/hasil1.png)
+
 
 
 
