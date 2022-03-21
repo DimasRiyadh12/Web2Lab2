@@ -36,6 +36,9 @@ Css inline adalah css yang memiliki prioritas tertinggi dibanding internal dan e
 
 ![gambar1](screenshot/hasil3.png)
 
+## 5. Menambahkan CSS Selector
+
+![gambar1](screenshot/hasil4.png)
 
 
 
