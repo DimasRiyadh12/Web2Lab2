@@ -15,7 +15,8 @@ Anda pernah mencoba mengembangkan website menggunakan HTML atau PHP? Jika sudah,
 ## Langkah-Langkah Praktikum
 ## 1. Membuat Dokumen HTML
 
-![Gambar 1](Web2Lab2\screenshot/hasil1.PNG)
+![img](screenshot/hasil1.png)
+
 
 
 
