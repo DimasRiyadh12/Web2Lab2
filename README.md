@@ -18,11 +18,19 @@ Anda pernah mencoba mengembangkan website menggunakan HTML atau PHP? Jika sudah,
 
 ![gambar1](screenshot/hasil1.png)
 
-
+Disini adalah file html yang belum terdapat file css nya , css internal dan css external serta inline.
 
 ## 2. Menambahkan CSS Internal
 
 ![gambar1](screenshot/hasil2.png)
+
+Css internal adalah css yang file nya terdapat pada dokumen html dengan pendeklarasian style css internal dapat digunakan hanya pada dalam dokumen saja.
+
+## 3. Menambahkan Inline CSS
+
+![gambar1](screenshot/hasil2.png)
+
+
 
 
 
